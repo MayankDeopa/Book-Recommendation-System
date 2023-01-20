@@ -1,1 +1,1 @@
-# Book-Recommendation-System
+This is my book recommendation system. First of all I imported dataset in jupyter notebook and after performing EDA and feature engineering I created the recommendation system based upon the Publisher, Author and Rating of the Book.
